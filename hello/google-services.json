@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123581321345",
+    "firebase_url": "https://daring-cache-123581.firebaseio.com",
+    "project_id": "daring-cache-123581",
+    "storage_bucket": "daring-cache-123581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123581321345:android:7362ce830edbdbd1",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123581321345-ec9ms3ft0bb19ebdp8r5scmq9ii4j358.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "com-example-hello"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
